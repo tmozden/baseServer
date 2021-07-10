@@ -1,0 +1,6 @@
+{
+  "jwtPrivateKey": "DEFAULT_JWT_PRIVATE_KEY",
+  "db": {
+    "host": "DATABASE_CONNECTIONSTRING"
+  }
+}
